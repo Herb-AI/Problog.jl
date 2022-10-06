@@ -1,0 +1,7 @@
+name = "Problog"
+uuid = "601f6e7d-90d3-45c4-9bfb-49200ec25e18"
+authors = ["Sebastijan <sebastijan.dumancic@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Julog = "5d8bcb5e-2b2c-4a96-a2b1-d40b3d3c344f"
